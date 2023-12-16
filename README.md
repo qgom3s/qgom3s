@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="https://private-user-images.githubusercontent.com/81332306/291004461-e790b60b-7961-4327-964a-78ac2225daff.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI3NDYxNTYsIm5iZiI6MTcwMjc0NTg1NiwicGF0aCI6Ii84MTMzMjMwNi8yOTEwMDQ0NjEtZTc5MGI2MGItNzk2MS00MzI3LTk2NGEtNzhhYzIyMjVkYWZmLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE2VDE2NTczNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmNDMzZDI2NWVjZjg2YmQ3Y2U1NjdiZTgwYTk5NGFmMTBiMzliMmZkYmE3M2MxOWVmZGU1MTNhNDRmMjg3MmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wJS1THsGdKdKdMk4mf7I-lD4FuqKRp2bp-jyU7fw5Cw">
+<img align="center" src="https://live.staticflickr.com/65535/53401785436_ba0c4d88c0_o.jpg" width="1000" height="250" alt="bg-developer-qgom3s"/>
 
 <h1 align="center">🙋🏻‍♂️ Quenã Gomes</h1>
 
