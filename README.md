@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="250" src="https://private-user-images.githubusercontent.com/81332306/291009424-c267b4ff-bafa-493d-98fe-701078bdf478.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI3NTEyOTcsIm5iZiI6MTcwMjc1MDk5NywicGF0aCI6Ii84MTMzMjMwNi8yOTEwMDk0MjQtYzI2N2I0ZmYtYmFmYS00OTNkLTk4ZmUtNzAxMDc4YmRmNDc4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE2VDE4MjMxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3NjYyNjYxOTIxNWQzZGMyYjFhNzBhZTNjNDhlNDY0YWY4ZDk0ZWI2OTdiYTNkNzA5N2JlZWU3MzE5YmIxYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1C2Kh4-THE0znWvPBsyNVjjoJrdz9hc1FEYIRi84354"  />
+<img align="right" height="250" src="https://live.staticflickr.com/65535/53408307861_f97bf1c28b_o.jpg" width="250" height="250" alt="star-dev"  />
 
 ###
 
